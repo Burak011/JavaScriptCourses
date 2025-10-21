@@ -1,0 +1,1 @@
+console.log("Hello, welcome to Day 1 of the coding challenge!");
